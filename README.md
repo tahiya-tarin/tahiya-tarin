@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<img align="left" height="300" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6fb254a1-b5b9-4a24-a4bc-89d3bf39c7e0/demb6ea-2845f3e6-cc9c-4a71-bbda-21cccc1e9983.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZmYjI1NGExLWI1YjktNGEyNC1hNGJjLTg5ZDNiZjM5YzdlMFwvZGVtYjZlYS0yODQ1ZjNlNi1jYzljLTRhNzEtYmJkYS0yMWNjY2MxZTk5ODMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1FRQvPQieep_EfcYSIlJOoelAjiDu-uIQ7TF1rss6zY"  /><br/>
+<img align="left" height="300" src="Profile Picture.png"  /><br/>
 
 ###
 <div align="center">
