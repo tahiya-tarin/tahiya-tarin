@@ -54,28 +54,7 @@
 ###
 
 
-<br clear="both">
-<div align="center">
- <img src="Contribution Graph.png" alt="GitHub Contribution Graph" />
-</div>
 
-###
-<br clear="both">
-
-<div align="center">
-
-### 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=Mubashir42884&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true) <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mubashir42884&theme=gruvbox&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mubashir42884&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=donut)
-
-
-  ### 🔝 Top Contributed Repo
-  ![](https://github-contributor-stats.vercel.app/api?username=Mubashir42884&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
-  
-  ## 🏆 GitHub Trophies
-  ![](https://github-profile-trophy.vercel.app/?username=Mubashir42884&theme=gruvbox&margin-w=10&margin-h=5&column=3)
   
   ### ✍️ Random Dev Quote
   ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
@@ -85,17 +64,15 @@
 <br clear="both">
 <div align="center">
   <h2>
-    🎂 Birthday: October 12th</br>
-    📧 Email: <a href="mubashir.mohsin.42884@gmail.com"> mubashir.mohsin.42884@gmail.com</a>
+    🎂 Birthday: March 16th</br>
+    📧 Email: <a href="tahiya707@gmail.com"> tahiya707@gmail.com</a>
   </h2>
   
   <h3>📚 Education and Work:</h3>
-  🎓 B. Sc in Computer Science and Engineering at <a href="https://www.aiub.edu">AIUB </a>(2020-2024)<br/>
-  🎓 Higher Secondary (HSC) & Secondary School (SSC) from <a href="http://www.drmc.edu.bd"> Dhaka Residential Model College</a> (2017-2019)<br/>
-  🧠 Research Enthusiast with a focus on AI, Healthcare, Cybersecurity, and Data Privacy. <br/>
-  💼 Information System Consultant (2022-Now)<br/>
-  🎨 Graphic Designer (2017-2020)<br/>
-  💻 Freelancer (2017-Now)<br/>
+  🎓 Undergraduate in English Language & Literature at <a href="https://www.nu.ac.bd">NU </a>(2023-2024)<br/>
+  🎓 Higher Secondary (HSC) from <a href="http://www.anandamohongovtcollege.edu.bd"> Ananda Mohan College</a> (2020-2021)<br/> & Secondary School (SSC) from <a href="http://www.vidyamayee.edu.bd"> Vidyamoyee Govt. Girls' High School</a> (2018-2019)<br/>
+  🎨 Graphic Designer (201-202)<br/>
+  💻 Freelancer (201-Now)<br/>
 </div>
 
 ###
