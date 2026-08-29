@@ -49,7 +49,7 @@
 
 ###
 
-<h2 align="center">Hi there! <a href="https://www.linkedin.com/in/tahiya-tarin"> Tahiya Tarin </a>, here. <br/>An undergraduate student in English Language & Literature.
+<h2 align="center">Hi there! <a href="https://www.linkedin.com/in/tahiya-tarin"> Tahiya Tarin </a>, here.<div align="center"> <br/>An undergraduate student in English Language & Literature.</div>
 
 
 ###
