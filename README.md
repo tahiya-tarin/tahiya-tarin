@@ -70,9 +70,10 @@
   
   <h3>📚 Education and Work:</h3>
   🎓 Undergraduate in English Language & Literature at <a href="https://www.nu.ac.bd">NU </a>(2023-2024)<br/>
-  🎓 Higher Secondary (HSC) from <a href="http://www.anandamohongovtcollege.edu.bd"> Ananda Mohan College</a> (2020-2021)<br/> & Secondary School (SSC) from <a href="http://www.vidyamayee.edu.bd"> Vidyamoyee Govt. Girls' High School</a> (2018-2019)<br/>
-  🎨 Graphic Designer (201-202)<br/>
-  💻 Freelancer (201-Now)<br/>
+  🎓 Higher Secondary (HSC) from <a href="http://www.anandamohongovtcollege.edu.bd"> Ananda Mohan College</a> (2020-2021)<br/> 
+    & Secondary School (SSC) from <a href="http://www.vidyamayee.edu.bd"> Vidyamoyee Govt. Girls' High School</a> (2018-2019)<br/>
+  🎨 Graphic Designer (loading)<br/>
+  💻 Freelancer (pending)<br/>
 </div>
 
 ###
