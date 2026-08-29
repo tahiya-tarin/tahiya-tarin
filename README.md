@@ -49,8 +49,8 @@
 
 ###
 
-<h2 align="center">Hi there! <a href="https://www.linkedin.com/in/mubashir-mohsin"> Mubashir Mohsin </a>, here. <br/>A prospective Master's Student and fresh CS graduate specialized in AI, ML, and cutting-edge research.</h2>
-<h4 align="left"> Research Interest: AI-driven Healthcare, Cybersecurity, and Data Privacy. Currently working with medical imaging modalities and bioinformatics.</h4>
+<h2 align="center">Hi there! <a href="https://www.linkedin.com/in/tahiya-tarin"> Tahiya Tarin </a>, here. <br/>An undergraduate student in English Language & Literature.
+
 
 ###
 
