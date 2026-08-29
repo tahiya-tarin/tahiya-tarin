@@ -45,18 +45,6 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </a>
 
-<a href="https://www.datacamp.com/portfolio/MubasirMohsin42884">
-  <img src="https://i.ibb.co/RPmjxb5/DC-New-mugdv8.png" height="35" alt="datacamp logo" />
-</a>
-
-<a href="https://www.kaggle.com/mubashir42884">
-  <img src="https://i.ibb.co/D74YnLL/kaggle-logo-icon.jpg" alt="kaggle-logo-icon" height="35" width="115"/>
-</a>
-
-<a href="https://orcid.org/0009-0008-7205-0855">
-  <img src="ORCiD.png" alt="orcid-logo-icon" height="35" width="115"/>
-</a>
-</div>
 
 
 ###
